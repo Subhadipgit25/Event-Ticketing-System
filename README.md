@@ -25,7 +25,6 @@ This project is a decentralized Event Ticketing System built using Soroban smart
 
 CBAHIBZQWEGSQ3KNMSMBHPA7BX5FPKQ4WD62CFIMBUF7UMWR6DG46VVO
 
-> Replace `XXX` with your deployed contract address after deployment.
 
 ---
 
