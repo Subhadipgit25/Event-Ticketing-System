@@ -1,6 +1,6 @@
 # Event-Ticketing-System
 # 🎟️ Stellar Soroban Event Ticketing System
-<img width="1919" height="979" alt="image" src="https://github.com/user-attachments/assets/43543d0a-f0dd-4c8f-b779-bc1cc3d66cd7" />
+
 
 ## 📌 Project Description
 
@@ -43,6 +43,7 @@ CBAHIBZQWEGSQ3KNMSMBHPA7BX5FPKQ4WD62CFIMBUF7UMWR6DG46VVO
 - Ticket transfer between users
 - QR code validation system
 - Payment integration (XLM or tokens)
+- <img width="1919" height="979" alt="image" src="https://github.com/user-attachments/assets/43543d0a-f0dd-4c8f-b779-bc1cc3d66cd7" />
 - 
 
 ---
